@@ -1,145 +1,181 @@
 
-<!-- ========================================= -->
-<!-- CHALIE MELKAMU WAGNEW - GITHUB PROFILE -->
-<!-- GitHub: chalie705 -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:2563EB,100:7C3AED&height=220&section=header&text=CHALIE%20MELKAMU%20WAGNEW&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:111827,100:2563EB&text=CHALIE%20MELKAMU%20WAGNEW&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20WEB%20DEVELOPER&descAlignY=58&descSize=13&animation=fadeIn" />
 
-### Building modern, responsive and user-friendly web applications.
+<a href="https://github.com/chalie705">
+<img src="https://img.shields.io/badge/GitHub-chalie705-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:chaliemelkamu6@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-chalie705-181717?style=for-the-badge&logo=github)](https://github.com/chalie705)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaliemelkamu6@gmail.com)
+<br/>
+
+**Building practical solutions through modern software development.**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — ABOUT ME
 
-Hello! I'm **Chalie Melkamu Wagnew**, a final-year Software Engineering student at **Injibara University, Ethiopia**.
+```text
+Name       : Chalie Melkamu Wagnew
+Education  : Final-Year Software Engineering Student
+University : Injibara University, Ethiopia
+Focus      : Full Stack Web Development
+Interest   : Web & Mobile Application Development
+```
 
-I'm passionate about software development and building practical applications that solve real-world problems.
-
-- 🎓 Software Engineering Student at Injibara University.
-- 💻 Interested in Full Stack Web Development.
-- 🌱 Continuously learning modern web technologies.
-- 🚀 Building practical software projects.
-- 🤝 Interested in collaboration and internship opportunities.
-
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+- Passionate about building useful software applications.
+- Interested in modern frontend and backend technologies.
+- Continuously improving software engineering skills.
+- Enjoy turning ideas into practical applications.
 
 ---
 
-## 🚀 Featured Projects
+## `02` — TECH STACK
 
-### 1. Employee Management System
+<div align="center">
 
-A web-based application designed to manage employee information and HR operations.
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark"/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark"/>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
+</div>
+
+---
+
+## `03` — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Employee Management System
+
+A web application for managing employee and HR operations.
 
 **Features**
-- Employee records management
+- Employee records
 - Attendance management
 - Leave management
 - Payroll management
 
-**Technologies:** React, Node.js, Express.js, PostgreSQL
+**Stack**
 
----
+React · Node.js · Express · PostgreSQL
 
-### 2. Injibara University Campus Life & Services App
+<a href="https://github.com/chalie705">
+View GitHub Projects →
+</a>
 
-A mobile application project designed to improve campus communication and access to university services.
+</td>
+<td width="50%" valign="top">
 
-**Planned modules**
-- Student and staff authentication
-- Campus announcements and events
+### Campus Life & Services App
+
+A university campus application project.
+
+**Modules**
+- Authentication
+- Announcements and events
 - Clubs and facilities
-- Service requests and feedback
+- Service requests
 - Notifications
 
-**Technologies:** React Native, Expo, TypeScript, Node.js, PostgreSQL
+**Stack**
+
+React Native · Expo · TypeScript · Node.js · PostgreSQL
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## `04` — GITHUB STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=60A5FA&icon_color=8B5CF6&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=3B82F6&icon_color=8B5CF6&text_color=FFFFFF&ring_color=3B82F6"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=60A5FA&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=compact&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=FFFFFF"/>
 
 </div>
 
-### Contribution Activity
+---
+
+## `05` — CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=09090B&color=60A5FA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="90%" src="https://streak-stats.demolab.com?user=chalie705&theme=transparent&hide_border=true&background=000000&ring=3B82F6&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## `06` — CONTRIBUTION GRAPH
 
-- Improving Full Stack Web Development skills.
-- Building responsive web applications.
-- Developing mobile applications with React Native.
-- Learning software architecture and backend development.
-- Improving problem-solving and software engineering practices.
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=000000&color=3B82F6&line=8B5CF6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20ACTIVITY"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## `07` — CONTRIBUTION CALENDAR
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/3B82F6/chalie705" width="100%" alt="GitHub contribution calendar"/>
+
+</div>
+
+---
+
+## `08` — CURRENT FOCUS
+
+- Full Stack Web Development
+- React and TypeScript
+- Backend API Development
+- PostgreSQL Database Design
+- React Native Mobile Development
+- Software Engineering Practices
+
+---
+
+## `09` — CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/chalie705">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:chaliemelkamu6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**"Code. Build. Learn. Improve."**
 
-<div align="center">
-
-### 💡 "Turning ideas into practical software solutions."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:09090B&height=110&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:111827,100:000000"/>
 
 </div>
