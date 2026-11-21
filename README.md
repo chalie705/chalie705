@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <!-- Animated Introduction -->
 
@@ -6,19 +7,19 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/University-Injibara%20University-161B22?style=for-the-badge&logo=academia&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Study-4th%20Year-161B22?style=for-the-badge&logo=bookstack&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Location-Ethiopia-161B22?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=chalie705&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/University-Injibara%20University-161B22?style=for-the-badge&logo=academia&logoColor=58A6FF" alt="University" />
+<img src="https://img.shields.io/badge/Study-4th%20Year-161B22?style=for-the-badge&logo=bookstack&logoColor=58A6FF" alt="Study Year" />
+<img src="https://img.shields.io/badge/Location-Ethiopia-161B22?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=chalie705&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
 <a href="https://github.com/chalie705">
-<img src="https://img.shields.io/badge/GitHub-chalie705-161B22?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-chalie705-161B22?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 <a href="mailto:chaliemelkamu6@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
 </div>
@@ -57,8 +58,8 @@ I'm passionate about developing web and mobile applications that solve real-worl
 
 ### Mobile Development
 
-<img src="https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-161B22?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-161B22?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
 ### Databases
 
@@ -87,27 +88,21 @@ I'm passionate about developing web and mobile applications that solve real-worl
 
 ### 1. Employee Management System (HRMS)
 
-<image src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Completed" />
 
 **Repository:** [HRMS Frontend](https://github.com/chalie705/hrms-frontend)
 
-The Employee Management System is a full-stack web application developed to digitize and simplify organizational human resource management processes. It provides a centralized platform for managing employee information and important HR operations, reducing reliance on manual record-keeping and improving the organization of employee data.
-
-The system supports HR staff and administrators in managing employee-related activities through an organized and user-friendly interface.
+A full-stack web application developed to digitize and simplify organizational human resource management processes.
 
 **Key Features:**
 
-- 👥 **Employee Management:** Create, view, update, and manage employee records.
-- 📅 **Attendance Management:** Record and manage employee attendance information.
-- 📝 **Leave Management:** Organize employee leave requests and leave records.
-- 💰 **Payroll Management:** Manage employee salary and payroll information.
-- 🗄️ **Centralized Records:** Store and manage employee information in a structured database.
+- 👥 Employee record management.
+- 📅 Attendance management.
+- 📝 Leave management.
+- 💰 Payroll management.
+- 🗄️ Centralized employee records.
 
-**Technologies Used:**
-
-- Frontend: React
-- Backend: Node.js, Express.js
-- Database: PostgreSQL
+**Technologies:** React, Node.js, Express.js, PostgreSQL.
 
 **Project Status:** Completed and working.
 
@@ -115,32 +110,24 @@ The system supports HR staff and administrators in managing employee-related act
 
 ### 2. Injibara University Campus Life & Services App
 
-<image src="https://img.shields.io/badge/Type-University%20Academic%20Project-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-University%20Academic%20Project-58A6FF?style=flat-square" alt="Academic Project" />
 
-The Injibara University Campus Life & Services App is an academic mobile application project designed to improve communication and access to university services.
-
-It aims to provide students, staff, and administrators with a centralized digital platform for accessing campus information and interacting with university services.
-
-The application brings important campus activities and services together in one place, helping users stay informed about university announcements, events, clubs, facilities, and service-related activities.
+A university-focused mobile application designed to improve communication and access to university services.
 
 **Key Features:**
 
-- 📢 **Campus Announcements:** View important university announcements and updates.
-- 🎉 **University Events:** Discover upcoming university events and activities.
-- 🏫 **Clubs and Organizations:** Explore campus clubs and student organizations.
-- 🏢 **Campus Facilities:** Find information about available university facilities and services.
-- 📋 **Service Requests:** Submit requests for university services.
-- 💬 **Feedback and Complaints:** Send feedback and report service-related concerns.
-- 🔔 **Notifications:** Receive updates about relevant campus activities.
-- 🔎 **Search and Filtering:** Find campus information and services easily.
-- 🔐 **Role-Based Access Control:** Support different permissions for students, staff, and administrators.
-- 🚨 **Emergency Contacts:** Access important university emergency contact information.
+- 📢 Campus announcements.
+- 🎉 University events.
+- 🏫 Clubs and organizations.
+- 🏢 Campus facilities and services.
+- 📋 Service requests.
+- 💬 Feedback and complaints.
+- 🔔 Notifications.
+- 🔎 Search and filtering.
+- 🔐 Role-based access control.
+- 🚨 Emergency contacts.
 
-**Technologies Used:**
-
-- Mobile Frontend: React Native, Expo, TypeScript
-- Backend: Node.js, Express.js
-- Database: PostgreSQL
+**Technologies:** React Native, Expo, TypeScript, Node.js, Express.js, PostgreSQL.
 
 **Project Type:** University Academic Project.
 
@@ -148,69 +135,47 @@ The application brings important campus activities and services together in one 
 
 ### 3. Registration Management System (RMS)
 
-<image src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-58A6FF?style=flat-square" alt="Backend Project" />
 
 **Repository:** [RMS Backend](https://github.com/chalie705/rmsbackende)
 
-The Registration Management System is a software application developed to organize and manage registration-related information through a centralized digital platform.
-
-Its purpose is to make registration processes more structured by supporting user information management, authentication, and database operations.
-
-The backend provides the foundation for handling application data and supporting communication between the frontend and database.
+A software application developed to organize and manage registration-related information through a centralized digital platform.
 
 **Key Features:**
 
-- 👤 **User Registration:** Support the creation of user accounts.
-- 🔑 **Authentication:** Manage user login and authentication processes.
-- 📋 **Registration Management:** Organize and manage registration-related information.
-- 🗄️ **Database Integration:** Store and retrieve application data.
-- 🔗 **API Development:** Provide backend endpoints for frontend communication.
-- 🔐 **Access Management:** Support controlled access to application resources.
+- 👤 User registration.
+- 🔑 Authentication.
+- 📋 Registration management.
+- 🗄️ Database integration.
+- 🔗 REST API development.
+- 🔐 Access management.
 
-**Technologies Used:**
-
-- Backend: Node.js, Express.js
-- Database: PostgreSQL
-- API: REST API
-
-**Repository:** Backend implementation.
+**Technologies:** Node.js, Express.js, PostgreSQL, REST API.
 
 ---
 
 ### 4. Hotel Booking App
 
-<image src="https://img.shields.io/badge/Type-Academic%20Mobile%20Application-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Academic%20Mobile%20Application-58A6FF?style=flat-square" alt="Academic Mobile Project" />
 
-The Hotel Booking App is an academic mobile application concept designed to provide users with a convenient way to explore hotel information and interact with booking-related interfaces.
-
-The application focuses on mobile usability and organizing hotel-related information in an accessible format.
+An academic mobile application concept designed to provide users with a convenient way to explore hotel information and interact with booking-related interfaces.
 
 **Key Features:**
 
 - 🏨 Hotel browsing and discovery.
 - 📍 Hotel information presentation.
-- 📅 Booking-related user interfaces.
+- 📅 Booking-related interfaces.
 - 📱 Mobile-friendly application design.
 
-**Technologies Used:**
-
-- React Native
-- Expo
-- TypeScript
-
-**Project Type:** Academic Mobile Application Project.
+**Technologies:** React Native, Expo, TypeScript.
 
 ---
 
 ### 5. Clinical Management System
 
-<image src="https://img.shields.io/badge/Category-Healthcare%20Management-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Category-Healthcare%20Management-58A6FF?style=flat-square" alt="Healthcare Project" />
 
-The Clinical Management System is a software application designed to support the organization and management of healthcare-related information.
-
-It focuses on providing a structured digital environment for managing clinical records and organizing information through a centralized application.
-
-The project demonstrates the application of database management, user interfaces, and access-control concepts in a healthcare-related software system.
+A software application designed to support the organization and management of healthcare-related information.
 
 **Key Features:**
 
@@ -220,15 +185,7 @@ The project demonstrates the application of database management, user interfaces
 - 🔐 User access management.
 - 📊 Organized information handling.
 
-**Technologies Used:**
-
-- PHP
-- MySQL
-- HTML5
-- CSS3
-- JavaScript
-
-**Project Type:** Software Development Project.
+**Technologies:** PHP, MySQL, HTML5, CSS3, JavaScript.
 
 ---
 
@@ -237,34 +194,38 @@ The project demonstrates the application of database management, user interfaces
 <div align="center">
 
 <a href="https://github.com/chalie705/hrms-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=hrms-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="HRMS Frontend Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=hrms-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="HRMS Frontend" />
 </a>
 
 <a href="https://github.com/chalie705/rmsbackende">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=rmsbackende&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="RMS Backend Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=rmsbackende&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="RMS Backend" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<!-- GitHub Statistics -->
+<p>
+  <i>A snapshot of my GitHub development journey and coding activity.</i>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Statistics" />
+<!-- GitHub Overview -->
 
-<!-- Most Used Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Overview" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+<!-- Language Distribution -->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=donut&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Language Distribution" />
 
 <br/><br/>
 
 <!-- Contribution Streak -->
 
-<img src="https://streak-stats.demolab.com/?user=chalie705&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Contribution Streak" />
+<img width="85%" src="https://streak-stats.demolab.com?user=chalie705&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -274,17 +235,45 @@ The project demonstrates the application of database management, user interfaces
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
+### Development Activity Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="Contribution Activity Graph" />
+
+<br/><br/>
+
+### Contribution Calendar
+
+<img width="100%" src="https://ghchart.rshah.org/58A6FF/chalie705" alt="GitHub Contribution Calendar" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chalie705&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=chalie705&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 💻 Development Insights
+
+<div align="center">
+
+### Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chalie705&theme=github_dark" width="100%" alt="Profile Summary" />
+
+<br/><br/>
+
+### Coding Time Distribution
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chalie705&theme=github_dark&utcOffset=3" width="49%" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chalie705&theme=github_dark" width="49%" alt="Most Used Commit Languages" />
 
 </div>
 
@@ -307,21 +296,17 @@ The project demonstrates the application of database management, user interfaces
 <div align="center">
 
 <a href="mailto:chaliemelkamu6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/chalie705">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
+<br/><br/>
 
----
+### 💡 Building Today, Improving Tomorrow.
 
-<div align="center">
-
-### 💡 "Building today, improving tomorrow."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
