@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <!-- Animated Introduction -->
 
@@ -57,8 +56,6 @@ I'm passionate about developing web and mobile applications that solve real-worl
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
 ### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=react" />
 
 <img src="https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-161B22?style=for-the-badge&logo=expo&logoColor=white" />
@@ -160,14 +157,12 @@ A clinical management application designed to organize healthcare-related record
 
 <div align="center">
 
-<!-- Replace repository names with your actual GitHub repository names -->
-
-<a href="https://github.com/chalie705">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=YOUR_EMPLOYEE_REPOSITORY&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" />
+<a href="https://github.com/chalie705/hrms-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=hrms-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="HRMS Frontend Repository" />
 </a>
 
-<a href="https://github.com/chalie705">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=YOUR_CAMPUS_REPOSITORY&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" />
+<a href="https://github.com/chalie705/rmsbackende">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chalie705&repo=rmsbackende&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="RMS Backend Repository" />
 </a>
 
 </div>
@@ -178,19 +173,19 @@ A clinical management application designed to organize healthcare-related record
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Statistics -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chalie705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Statistics" />
 
 <!-- Most Used Languages -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalie705&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
 
 <br/><br/>
 
 <!-- Contribution Streak -->
 
-<img src="https://streak-stats.demolab.com/?user=chalie705&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=chalie705&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -200,7 +195,7 @@ A clinical management application designed to organize healthcare-related record
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalie705&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
@@ -210,7 +205,7 @@ A clinical management application designed to organize healthcare-related record
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chalie705&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=chalie705&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies" />
 
 </div>
 
